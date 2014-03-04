@@ -1,0 +1,28 @@
+[
+  {
+    "top": {
+      "cat1": {
+        "cat1A": "val", 
+        "cat1B": "val", 
+        "cat1C": {
+          "cat1CA": {
+            "id": [
+              1, 
+              2, 
+              3
+            ], 
+            "type": "Regular"
+          }
+        }, 
+        "cat1D": {
+          "id": "id", 
+          "type": {
+            "bottom": {
+              "bottomest": "val"
+            }
+          }
+        }
+      }
+    }
+  }
+]
